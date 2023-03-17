@@ -2,11 +2,9 @@
 
 ###
 
-<h3 align="center">🧑🏻‍💻 Jr. Front-End Developer & UI/UX Designer 🎨</h3>
+<h2 align="center">🧑🏻‍💻 Jr. Front-End Developer & UI/UX Designer 🎨</h2>
 
 ###
-
-<br clear="both">
 
 <h3 align="center">⬇️ My Social Media Accounts⬇️</h3>
 
