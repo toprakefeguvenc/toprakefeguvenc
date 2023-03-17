@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">⬇️ My Social Media Accounts⬇️</h3>
+<h2 align="center">⬇️ My Social Media Accounts⬇️</h2>
 
 ###
 
@@ -33,13 +33,11 @@
 
 ###
 
-<h4 align="center">📧 Contact: toprakwork@outlook.com 📧</h4>
+<h3 align="center">📧 Contact: toprakwork@outlook.com 📧</h3>
 
 ###
 
-<br clear="both">
-
-<h3 align="center">⬇️ My Skills ⬇️</h3>
+<h2 align="center">⬇️ My Skills ⬇️</h2>
 
 ###
 
